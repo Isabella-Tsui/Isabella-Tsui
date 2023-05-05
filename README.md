@@ -2,7 +2,7 @@
   
 
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="https://github.com/Isabella-Tsui/Isabella-Tsui/blob/main/laptop%20wave.png" align="center" style="width: 100%" />
 </div>  
   
 
