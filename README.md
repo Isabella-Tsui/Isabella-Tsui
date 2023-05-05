@@ -1,16 +1,18 @@
-## <div align="center">Hi there! Welcome to my github 👋</div>  
+## <div align="center">Hi there! Welcome to my github profile!</div>  
   
 
-<div align="center">
-<img src="https://github.com/Isabella-Tsui/Isabella-Tsui/blob/main/laptop%20wave.png" align="center" style="width: 100%" />
-</div>  
   
 
-#### <div align="center">ABOUT ME: 
-When I'm not coding or studying for my next exam you can catch me outside on a hike, cooking, doing some art, or petting my dog. </div>  
+#### 
+<img align="right" src="https://github.com/Isabella-Tsui/Isabella-Tsui/blob/main/laptop%20wave.png" align="center" style="width: 30%" style="height: 30%">
+
+<div align="left"> ABOUT ME: </div>  
   
 
-- ✏️ I’m currently working on a personal finance tracker web app and a full stack directed study involving the stock market   
+When I'm not coding or studying for my next exam, you can catch me outside on a hike, cooking, doing some art, or petting my dog.   
+  
+
+- ✏️ I’m currently working on a personal finance tracker web app and a full stack directed study involving the stock market (TBA)  
   
 
 - 💻 I’m currently learning REACT, CSS, JS, and SQL  
