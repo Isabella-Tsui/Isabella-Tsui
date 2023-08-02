@@ -10,10 +10,7 @@
   
 
 When I'm not coding or studying for my next exam, you can catch me outside on a hike, cooking, doing some art, or petting my dog.   
-  
 
-- ✏️ I’m currently working on a personal finance tracker web app and a full stack directed study involving the stock market (TBA)  
-  
 
 - 💻 I’m currently learning REACT, CSS, JS, and SQL  
   
@@ -72,9 +69,4 @@ When I'm not coding or studying for my next exam, you can catch me outside on a 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabella-Tsui&hide_border=true&layout=compact" align="left" />
 
 </td></tr></table>  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>
-<br />
 
