@@ -23,7 +23,7 @@ When I'm not coding or studying for my next exam, you can catch me outside on a 
 
 - ⚡ Fun fact: I got into computer science through my work as a hairdresser  
   
-
+Check out my website <a href="https://webhome.csc.uvic.ca/~itsui/index.html" target="_blank">here</a>!  
 <br/>  
 
 
@@ -52,9 +52,6 @@ When I'm not coding or studying for my next exam, you can catch me outside on a 
 </a>
 <a href="https://www.linkedin.com/in/isabella-tsui-619838268/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-<a href="https://webhome.csc.uvic.ca/~itsui/index.html" target="_blank">
-<img src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white alt=html style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
