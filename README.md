@@ -12,13 +12,13 @@
 When I'm not coding or studying for my next exam, you can catch me outside on a hike, cooking, doing some art, or petting my dog.   
 
 
-- 💻 I’m currently learning REACT, CSS, JS, and SQL  
+- 💻 I’m currently learning about building a start up
   
 
-- 🔭 I'm looking forward to beginning my specialization in software systems  
+- 🔭 I'm looking forward to expanding from web dev and trying out other avenues of computer science
   
 
-- ❓ Ask me about my experiences as a CS teaching assistant, java, and python  
+- ❓ Ask me about my experiences as a CS teaching assistant, co-op work, and upcoming start up  
   
 
 - ⚡ Fun fact: I got into computer science through my work as a hairdresser  
